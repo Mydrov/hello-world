@@ -1,2 +1,6 @@
 # hello-world
 Hi, my name is Matt. I'm going to tell you right now that I am undoubtedly one of the worst coders you know. I created this GitHub account to change that and record my journey.
+
+For a little more background, I am currently a third year computer science major at Michigan State University. I couldn't take any coding classes during my freshman year since I didn't meet the math course prerequisites so I had my first ever coding class in my sophomore year so I am already a year behind most of other computer science majors in my grade. The coding class was about Python and I failed it once during the fall semester and barely passed it the semester after that. I only barely passed it because I used Chegg and ChatGPT. This hurt not only my integrity but my general knowledge of coding. I am currently learning C++; as I am typing this I am currently two weeks behind in all my courses including my C++ class. I am sick of being behind. I did all of this to myself. 
+
+This is my official statement: I am going to have the greatest comeback ever. I am going to catch up with all my classes and work and have my life put together. I am going to do what I thought I can never do which is to get out of this hole I put myself in. This is my story. This marks the start of my journey.
